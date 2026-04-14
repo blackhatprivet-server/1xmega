@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "1xmega",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "91408a90-1d08-4957-937c-3d1a0f97dc44",
+			"database_name": "blackhatx"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
